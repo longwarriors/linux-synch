@@ -1,2 +1,2 @@
 # linux-synch
-cuQuantum openfermi must be on ubuntu
+A synchronize folder for projects rely on cuQuantum / openFermi must be on ubuntu
